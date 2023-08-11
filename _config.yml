@@ -1,5 +1,5 @@
 title: Jillian Andrea Juat Portfolio # your name (or website title) here
-logo: ![Jillian Andrea Juat](jjuat-profile.webp)
+logo: ![Jillian Andrea Juat]()
 description: > # your text below (remove <br> elements if you don't need line breaks)
 Portfolio Website of Jillian Andrea Juat
 
@@ -14,5 +14,5 @@ Portfolio Website of Jillian Andrea Juat
   <br><br>
   <a href="https://jdj25.github.io/jdj25-is218-final-portfolio/privacy_policy">Privacy Policy</a>
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 google_analytics: G-W20C1L4HEH # your Google Analytics tracking ID here
