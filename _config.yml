@@ -4,13 +4,13 @@ description: > # your text below (remove <br> elements if you don't need line br
  This is my portfolio website
 
   <br><br>
-  <a href="/about">About</a>
+  <a href="https://jdj25.github.io/jdj25-is218-final-portfolio/about">About</a>
   <br><br> 
-  <a href="/Portfolio">Portfolio</a>
+  <a href="https://jdj25.github.io/jdj25-is218-final-portfolio/portfolio">Portfolio</a>
   <br><br>
-  <a href="/subscribe">Subscribe</a>
+  <a href="https://jdj25.github.io/jdj25-is218-final-portfolio/subscribe">Subscribe</a>
   <br><br>
-  <a href="/privacy_policy">Privacy Policy</a>
+  <a href="https://jdj25.github.io/jdj25-is218-final-portfolio/privacy_policy">Privacy Policy</a>
   
 theme: jekyll-theme-minimal
-google_analytics: G-LG6PBB02Q5 # your Google Analytics tracking ID here
+google_analytics: G-W20C1L4HEH # your Google Analytics tracking ID here
